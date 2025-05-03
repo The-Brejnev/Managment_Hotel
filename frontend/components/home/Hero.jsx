@@ -1,4 +1,5 @@
 import React from 'react';
+
 function Hero({ children, hero }) {
   return (
     <section className={hero}>
