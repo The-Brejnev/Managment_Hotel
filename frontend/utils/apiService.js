@@ -1,5 +1,3 @@
-
-
 import axios from 'axios';
 import getConfig from 'next/config';
 import { getSessionToken, removeSessionAndLogoutUser } from './authentication';

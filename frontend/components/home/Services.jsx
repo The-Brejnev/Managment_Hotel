@@ -1,5 +1,3 @@
-// File: frontend/components/home/Services.jsx
-import React from 'react';
 import { v4 as uniqueId } from 'uuid';
 import services from '../../data/service';
 import Title from './Title';

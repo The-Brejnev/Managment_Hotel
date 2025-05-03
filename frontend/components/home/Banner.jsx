@@ -1,7 +1,4 @@
-
-
 import React from 'react';
-
 function Banner({ children, title, subtitle }) {
   return (
     <div className='banner'>

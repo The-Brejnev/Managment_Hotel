@@ -5,13 +5,11 @@ import React, { useState } from 'react';
 import { FaAlignRight } from 'react-icons/fa';
 import { getSessionToken, getSessionUser } from '../../utils/authentication';
 import UserPopover from './popover';
-
 function Navbar() {
   const [isOpen, setIsOpen] = useState();
   const user = getSessionUser();
   const token = getSessionToken();
   const router = useRouter();
-
   return (
     <nav className='navbar'>
       <div className='nav-center'>

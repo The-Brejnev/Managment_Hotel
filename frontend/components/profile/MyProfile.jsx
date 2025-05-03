@@ -1,5 +1,3 @@
-
-
 import { EditOutlined, ExclamationCircleFilled } from '@ant-design/icons';
 import {
   Button, Descriptions, Image, Modal, Result, Skeleton, Tag, Tooltip, Upload
@@ -13,7 +11,6 @@ import { getSessionToken, getSessionUser, setSessionUserKeyAgainstValue } from '
 import notificationWithIcon from '../../utils/notification';
 import { userStatusAsResponse } from '../../utils/responseAsStatus';
 import ProfileEditModal from './ProfileEditModal';
-
 const { publicRuntimeConfig } = getConfig();
 const { confirm } = Modal;
 

@@ -1,4 +1,3 @@
-
 import { ExclamationCircleFilled, SortAscendingOutlined, SortDescendingOutlined } from '@ant-design/icons';
 import {
   Button, Modal, Rate, Result, Space, Table, Tag, Tooltip
@@ -11,9 +10,7 @@ import arrayToCommaSeparatedText from '../../utils/arrayToCommaSeparatedText';
 import notificationWithIcon from '../../utils/notification';
 import { bookingStatusAsResponse } from '../../utils/responseAsStatus';
 import ReviewAddModal from '../utilities/ReviewAddModal';
-
 const { confirm } = Modal;
-
 function BookingHistory() {
   const [fetchAgain, setFetchAgain] = useState(false);
   const [filter, setFilter] = useState({

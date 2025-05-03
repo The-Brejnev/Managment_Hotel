@@ -1,5 +1,3 @@
-
-
 import React from 'react';
 import { v4 as uniqueId } from 'uuid';
 import Room from '../shared/Room';

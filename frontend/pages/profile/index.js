@@ -1,5 +1,3 @@
-
-
 import { HistoryOutlined, UserOutlined } from '@ant-design/icons';
 import { Tabs } from 'antd';
 import { useRouter } from 'next/router';

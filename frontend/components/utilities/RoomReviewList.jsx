@@ -1,5 +1,3 @@
-
-
 import {
   Avatar, Button, List, Rate, Result, Skeleton
 } from 'antd';

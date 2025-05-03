@@ -1,5 +1,3 @@
-
-
 import {
   LockOutlined, MailOutlined, PhoneOutlined, UserOutlined
 } from '@ant-design/icons';

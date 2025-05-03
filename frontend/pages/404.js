@@ -1,5 +1,3 @@
-
-
 import { Result } from 'antd';
 import Link from 'next/link';
 import React from 'react';

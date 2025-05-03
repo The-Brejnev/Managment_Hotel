@@ -1,5 +1,3 @@
-
-
 import { ConfigProvider } from 'antd';
 import { DefaultSeo } from 'next-seo';
 import { Provider, useSelector } from 'react-redux';

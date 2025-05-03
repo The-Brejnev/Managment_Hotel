@@ -1,5 +1,3 @@
-
-
 import {
   EnvironmentOutlined, PhoneOutlined, UserOutlined
 } from '@ant-design/icons';

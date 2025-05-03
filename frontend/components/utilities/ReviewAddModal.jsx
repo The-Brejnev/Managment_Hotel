@@ -1,5 +1,3 @@
-
-
 import {
   Button, Form, Input, Modal, Rate
 } from 'antd';

@@ -1,5 +1,3 @@
-
-
 import { useRouter } from 'next/router';
 import React, { useEffect, useState } from 'react';
 import { getSessionToken, getSessionUser } from '../../utils/authentication';

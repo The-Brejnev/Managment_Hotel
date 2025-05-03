@@ -1,9 +1,7 @@
-
 import Head from 'next/head';
 import React from 'react';
 import Footers from './footers';
 import Navbar from './navbar';
-
 function MainLayout({ children, title }) {
   return (
     <>
