@@ -3,8 +3,8 @@
     "$oid": "63fc0054083e21a08223f495"
   },
   "userName": "Testing-01",
-  "fullName": "Md. Samiur Rahman Mukul",
-  "email": "test_01@gmail.com",
+  "fullName": "Matega Brejnev",
+  "email": "bertrandmate@gmail.com",
   "phone": "01611111111",
   "password": "$2a$08$2sZ4PEekBpVg6UqZZoqsneDJyJ3xoC9nH2pabht0LxnEUoUhEq.we",
   "avatar": "/uploads/users/1663327322406-1689809594691.jpg",
@@ -14,7 +14,7 @@
       "$numberLong": "1288375200000"
     }
   },
-  "address": "Modho Barear (Nijam Nagor), Mymensingh",
+  "address": "Brejnev",
   "role": "admin",
   "verified": false,
   "status": "logout",
